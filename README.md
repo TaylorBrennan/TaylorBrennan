@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Retrixa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Retrixa | Discord" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
-[<img align="left" alt="Retrixa | MC-Market" width="22px" src="https://www.mc-market.org/styles/mcmarketv2/xenforo/logo.og.png" />][mcm]
+[<img align="left" alt="Retrixa | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="Retrixa | MC-Market" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minecraft.svg" />][mcm]
 
 <br />
 
@@ -28,6 +28,7 @@
 
 <br />
 <br />
+
 [twitter]: https://twitter.com/MrTRhys
 [discord]: https://discord.com/users/688348050573361270/
 [mcm]:  https://www.mc-market.org/members/200727/
