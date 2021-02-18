@@ -16,19 +16,20 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="22px" src="http://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />]
-[<img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />]
-[<img align="left" alt="C" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />]
-[<img align="left" alt="IntelliJ" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />]
-[<img align="left" alt="Git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />]
-[<img align="left" alt="MongoDB" width="22px" src="https://img.icons8.com/color/452/mongodb.png" />]
-[<img align="left" alt="Bash" width="22px" src="https://www.twitchinstalls.com/img/terminal.svg" />]
-[<img align="left" alt="MySQL" width="22px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />]
+[<img align="left" alt="Java" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />][git]
+[<img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][git]
+[<img align="left" alt="C" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][git]
+[<img align="left" alt="IntelliJ" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />][git]
+[<img align="left" alt="Git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />][git]
+[<img align="left" alt="MongoDB" width="22px" src="https://img.icons8.com/color/452/mongodb.png" />][git]
+[<img align="left" alt="Bash" width="22px" src="https://www.twitchinstalls.com/img/terminal.svg" />][git]
+[<img align="left" alt="MySQL" width="22px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />][git]
 
 
 <br />
 <br />
 
+[git]: https://github.com/Retrixa
 [twitter]: https://twitter.com/MrTRhys
 [discord]: https://discord.com/users/688348050573361270/
 [mcm]:  https://www.mc-market.org/members/200727/
