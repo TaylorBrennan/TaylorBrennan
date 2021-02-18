@@ -25,6 +25,9 @@
 [<img align="left" alt="Bash" width="22px" src="https://www.twitchinstalls.com/img/terminal.svg" />][git]
 [<img align="left" alt="MySQL" width="22px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />][git]
 
+---
+
+<img align="left" alt="Retrixa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Retrixa&show_icons=true&hide_border=true" />
 
 <br />
 <br />
