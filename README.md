@@ -1,7 +1,7 @@
 ### Hi there, I'm Taylor - aka Retrixa
 
 ## I'm a Java Developer and Cyber Security Student!
-- 👨‍💻 I'm currently working on a Random Events plugin!
+- 👨‍💻 I'm currently working on a [Random Events](https://github.com/Retrixa/RandomEvents) plugin!
 - 🎓 I'm currently learning new ways to structure my code more efficiently!
 - 🧠 I'm looking to work with more like-minded people on a larger piece of work!
 - 💪 2021 Goals: Develop my skills and publish my first public plugins!
