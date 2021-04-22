@@ -30,7 +30,7 @@
 <br />
 
 [git]: https://github.com/Retrixa
-[twitter]: https://twitter.com/MrTRhys
+[twitter]: https://twitter.com/MrTaylorBrennan
 [discord]: https://discord.com/users/688348050573361270/
 [mcm]:  https://www.mc-market.org/members/200727/
 
