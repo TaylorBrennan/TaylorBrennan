@@ -1,6 +1,6 @@
 ### Hi there, I'm Taylor
 
-## I'm a Software Developer and Cyber Security Student!
+## I'm currently a Graduate Security Engineer!
 - 👨‍💻 I'm currently deveoping my first applications with React & JavaScript!
 - 🎓 I'm currently learning new APIs and working within the Cloud!
 - 🧠 I'm looking to work with more like-minded people on a larger piece of work!
