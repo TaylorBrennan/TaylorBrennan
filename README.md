@@ -18,7 +18,7 @@
 [<img align="left" alt="Python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][git]
 [<img align="left" alt="C" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][git]
 [<img align="left" alt="IntelliJ" width="24px" src="https://i.imgur.com/0pFrmJI.png" />][git]
-[<img align="left" alt="Git" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />][git]
+[<img align="left" alt="Git" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png" />][git]
 [<img align="left" alt="MongoDB" width="24px" src="https://img.icons8.com/color/452/mongodb.png" />][git]
 [<img align="left" alt="Bash" width="24px" src="https://www.twitchinstalls.com/img/terminal.svg" />][git]
 [<img align="left" alt="MySQL" width="24px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />][git]
