@@ -9,9 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Retrixa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Retrixa | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-[<img align="left" alt="Retrixa | MC-Market" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minecraft.svg" />][mcm]
+[<img align="left" alt="Taylor Brennan | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" />][twitter]
 
 <br />
 
@@ -29,8 +27,7 @@
 <br />
 <br />
 
-[git]: https://github.com/Retrixa
+[git]: https://github.com/TaylorBrennan
 [twitter]: https://twitter.com/MrTaylorBrennan
-[discord]: https://discord.com/users/688348050573361270/
-[mcm]:  https://www.mc-market.org/members/200727/
+
 
