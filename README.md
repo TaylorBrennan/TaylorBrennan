@@ -1,10 +1,10 @@
-### Hi there, I'm Taylor - aka Retrixa
+### Hi there, I'm Taylor
 
 ## I'm a Software Developer and Cyber Security Student!
-- 👨‍💻 I'm currently deveoping my first mobile app with React!
-- 🎓 I'm currently learning new ways to structure and plan my code more efficiently!
+- 👨‍💻 I'm currently deveoping my first applications with React & JavaScript!
+- 🎓 I'm currently learning new APIs and working within the Cloud!
 - 🧠 I'm looking to work with more like-minded people on a larger piece of work!
-- 💪 2021 Goals: Develop my skills to benefit my professional career!
+- 💪 2022 Goals: Develop my skills to benefit my professional career!
 - 🎉 Fun Fact: I started programming at age 14 and was previously a RuneScape bot developer!
 
 ### Connect with me:
