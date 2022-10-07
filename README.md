@@ -1,33 +1,27 @@
 ### Hi there, I'm Taylor
 
-## I'm currently a Graduate Security Engineer!
-- 👨‍💻 I'm currently deveoping my first applications with React & JavaScript!
-- 🎓 I'm currently learning new APIs and working within the Cloud!
-- 🧠 I'm looking to work with more like-minded people on a larger piece of work!
-- 💪 2022 Goals: Develop my skills to benefit my professional career!
-- 🎉 Fun Fact: I started programming at age 14 and was previously a RuneScape bot developer!
+# 💫 About Me:
+👨‍💻 I'm currently working on some new open-source proejcts!<br>🎓 I'm currently learning Golang!<br> 🧠 I'm looking to work with more like-minded people on a larger piece of work!<br>💪 2022 Goals: Develop my skills to benefit my professional career!<br>🎉 Fun Fact: I started programming at age 14 and was previously a RuneScape bot developer!<br>
 
-### Connect with me:
 
-[<img align="left" alt="Taylor Brennan | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" />][twitter]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taylorrhysbrennan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10607256) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MrTaylorBrennan) 
 
-<br />
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TaylorBrennan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBrennan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBrennan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages and Tools:
-[<img align="left" alt="Java" width="24px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/java-256.png" />][git]
-[<img align="left" alt="Python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][git]
-[<img align="left" alt="C" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][git]
-[<img align="left" alt="IntelliJ" width="24px" src="https://i.imgur.com/0pFrmJI.png" />][git]
-[<img align="left" alt="Git" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png" />][git]
-[<img align="left" alt="MongoDB" width="24px" src="https://img.icons8.com/color/452/mongodb.png" />][git]
-[<img align="left" alt="Bash" width="24px" src="https://www.twitchinstalls.com/img/terminal.svg" />][git]
-[<img align="left" alt="MySQL" width="24px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />][git]
-[<img align="left" alt="React" width="24px" src="https://i.imgur.com/myoQvA2.png" />][git]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br />
-<br />
+---
+[![](https://visitcount.itsvg.in/api?id=TaylorBrennan&icon=4&color=0)](https://visitcount.itsvg.in)
 
-[git]: https://github.com/TaylorBrennan
-[twitter]: https://twitter.com/MrTaylorBrennan
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tbrennan) 
 
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
