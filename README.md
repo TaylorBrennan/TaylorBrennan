@@ -1,7 +1,7 @@
 ### Hi there, I'm Taylor
 
 # 💫 About Me:
-👨‍💻 I'm currently working on some new personal proejcts!<br>🎓 I'm currently learning Golang!<br> 🧠 I'm looking to work with more like-minded people on a larger piece of work!<br>💪 2022 Goals: Develop my skills to benefit my professional career!<br>🎉 Fun Fact: I started programming at age 14 and was previously a RuneScape bot developer! 🤖<br>
+👨‍💻 I'm currently working on some new personal projects!<br>🎓 I'm currently learning Golang!<br> 🧠 I'm looking to work with more like-minded people on a larger piece of work!<br>💪 2022 Goals: Develop my skills to benefit my professional career!<br>🎉 Fun Fact: I started programming at age 14 and was previously a RuneScape bot developer! 🤖<br>
 
 
 ## 🌐 Socials:
