@@ -3,9 +3,7 @@
 # 💫 About Me:
 👨‍💻 I'm currently working on a new AI-Driven Wellness Technology!<br>
 🔒 Experienced Cyber Security Engineer with a focus on Product Security and Safeguarding Information Systems!<br>
-🎓 I'm actively learning and applying data analysis techniques to bridge the gap between health and technology!<br>
-🧠 I'm interested in innovating the health tech space and developing groundbreaking technology!<br>
-💊 Passionate about leveraging technology for health improvement and personal wellness!<br>
+💊 Passionate about leveraging technology for health improvement and longevity!<br>
 💪 2023 Goals: Develop a tool to empower individuals with their personal health data!<br>
 🎉 Fun Fact: I started programming at age 14 and was previously a RuneScape bot developer! 🤖<br>
 
