@@ -2,9 +2,8 @@
 
 # 💫 About Me:
   🔐 Deeply engrossed in the world of Privacy and Cybersecurity. I'm passionate about developing robust systems to protect and secure sensitive information.</br>
-  👨‍💻 Currently innovating in AI-Driven Wellness Technology, blending advanced tech with health and wellbeing.</br>
+  👨‍💻 Currently innovating in AI-Driven Wellness Technology, chasing immortality via code.</br>
   🛡️ As a Cyber Security Engineer, I specialize in Product/Application Security, ensuring the integrity and confidentiality of Information Systems.</br>
-  🌐 2024 Goals: To create a selection of robust open-source security tools to empower individuals to take control of their digital security.</br>
   🕵️‍♂️ Fun Fact: My programming journey began at age 14 – creating RuneScape bots. It's where I first discovered my knack for breaking and building digital worlds!</br>
 
 # 💻 Main Tech Stack:
@@ -20,6 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TaylorBrennan&icon=4&color=0)](https://visitcount.itsvg.in)
-
-  ## ☕ Like what you see? Consider buying me a coffee!
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tbrennan) 
